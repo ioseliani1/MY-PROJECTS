@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(73, 114, 236);
+    font-family: sans-serif;
+   
+}
+
+input{
+    margin-top: 8px;
+}
+.container{
+    
+    width:300px;
+    height: 410px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: 70px;
+
+    
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.firstinput{
+    width: 100%;
+    line-height: 30px;
+
+}
+.secondinput{
+    width: 100%;
+    line-height: 30px;
+    margin-top: 10px;
+    
+
+}
+.linkcontainer{
+    font-size:small;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.btn{
+    margin-top: 10px;
+    
+}
+.or{
+    margin-top: 30px;
+    font-size:small;
+}
+.signup{
+    display: flex;
+    justify-content: center;
+    
+    font-size: small;
+    margin-top: 10px;
+}
+.buttons{
+    margin-top: 16px;
+    
+    
+
+}
