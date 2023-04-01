@@ -1,0 +1,18 @@
+.container{
+    
+    width: 400px;
+    height: 450px;
+    
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5)
+}
+button{
+    line-height: 30px;
+    cursor: pointer;
+    margin-left: 10px;
+    font-size: 13px;
+    background-color: brown;
+    color: white;
+    border: none;
+
+}
+
