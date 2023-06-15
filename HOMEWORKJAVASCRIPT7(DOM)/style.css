@@ -1,0 +1,100 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(19, 21, 24);
+}
+
+.container{
+    
+    max-width: 50vh;
+    padding: 8px;
+    background-color: rgb(24, 29, 37);
+    color: white;
+    border-radius: 15px;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    max-width: 50vh;
+    padding: 8px;
+    background-color: rgb(24, 29, 37);
+    color: white;
+    border-radius: 15px;
+}
+
+
+
+.star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(40, 46, 56);
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.points{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.btn{
+    cursor: pointer;
+    border-radius: 50%;
+    border-style: none;
+    width: 45px;
+    height: 45px;
+    color: rgb(128, 136, 149);
+    background-color: rgb(40, 46, 56);
+    font-size: large;
+}
+
+.submitbtn{
+    cursor: pointer;
+    width: 90%;
+    border-radius: 20px;
+    border-style: none;
+    background-color: rgb(236, 125, 53);
+    color: white;
+    
+    margin: 20px;
+    height: 38px;
+    letter-spacing: 2px;
+    
+    
+}
+
+.text {
+    margin: 20px;
+    color: rgb(128, 136, 149);
+}
+.header {
+    margin: 20px;
+
+}
+
+.rating{
+
+display: flex;
+justify-content: center;
+align-items: center;
+width: 20vh;
+background-color: rgb(40, 46, 56);
+border-radius: 10px;
+
+}
+
+#rate{
+    color: rgb(236, 125, 53);
+    
+}
